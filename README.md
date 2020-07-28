@@ -18,7 +18,7 @@ I'm currently toying with Rust for my new projects, and I really like this langu
 
 ### 🔧 Ongoing projects:
 
-[noabspath](https://github.com/wdroz/noabspath) *Detect hard-coded absolute paths in your codebases*. I created this project because I work with people who like to write absolute path everywhere I they rarely ship their computer with their code. This project is written in Rust.
+[noabspath](https://github.com/wdroz/noabspath) *Detect hard-coded absolute paths in your codebases*. I created this project because I work with people who like to write absolute paths everywhere and unfortunately they rarely ship their computer with their code. This project is written in Rust.
 
 ### ⛔️ Old projects and/or student projects
 
