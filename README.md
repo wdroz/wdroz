@@ -30,6 +30,8 @@ I'm currently toying with Rust for my new projects, and I really like this langu
 
   * [personal-context-builder](https://github.com/InternetOfUs/personal-context-builder)
   * [realtime](https://github.com/InternetOfUs/realtime)
+  * [dnd-web](https://github.com/InternetOfUs/dnd-web) - web app with Flutter and Rust
+  * [activities-predictor](https://github.com/InternetOfUs/activities-predictor) - Detect activities for the wenet users
 
 ### ⛔️ Old projects and/or student projects
 
