@@ -18,6 +18,8 @@ I'm currently toying with Rust for my new projects, and I really like this langu
 
 ### 🔧 Ongoing projects:
 
+[BlazingBoard](https://github.com/wdroz/BlazingBoard) - [website](https://blazingboard.ch/) *To train to type fast! I used Rust fullstack (backend+frontend) by using [dioxus](https://dioxuslabs.com/)*
+
 [noabspath](https://github.com/wdroz/noabspath) *Detect hard-coded absolute paths in your codebases*. I created this project because I work with people who like to write absolute paths everywhere and unfortunately they rarely ship their computer with their code. This project is written in Rust. *(non-async Rust, rayon with focus on `.iter()` paradigm)*
 
 [check_urls](https://github.com/wdroz/check_urls) *Verify the validity of URLs inside your files*. A friend had an issue with dead links in his documentation in his git repository. I though that would be a good opportunity for Rust with the async paradigm.
