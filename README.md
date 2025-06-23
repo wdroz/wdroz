@@ -24,7 +24,7 @@ I'm currently toying with Rust for my new projects, and I really like this langu
 
 [check_urls](https://github.com/wdroz/check_urls) *Verify the validity of URLs inside your files*. A friend had an issue with dead links in his documentation in his git repository. I though that would be a good opportunity for Rust with the async paradigm.
 
-### 📋 Works projects:
+### 📋 Old Works-related projects:
 
 [WeNet](https://www.internetofus.eu/)
 
