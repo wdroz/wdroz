@@ -8,6 +8,8 @@ My skills
 
 *  ✔️ Machine learning
 *  ✔️ Python
+*  ✔️ Rust
+*  ✔️ Agentic engineering
 *  ✔️ Databases (both SQL and noSQL)
 *  ✔️ Tools (git, bash, Gnu/Linux, Docker, Docker-compose, ssh, gRPC)
 *  ✔️ Others (Distributed computing, Optimization, Back-end)
