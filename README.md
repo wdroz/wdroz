@@ -16,7 +16,7 @@ My skills
 
 I'm currently toying with Rust for my new projects, and I really like this language.
 
-### 🔧 Ongoing projects:
+### 🔧 Ongoing personal projects:
 
 [BlazingBoard](https://github.com/wdroz/BlazingBoard) - [website](https://blazingboard.ch/) *To train to type fast! I used Rust fullstack (backend+frontend) by using [dioxus](https://dioxuslabs.com/)*
 
@@ -24,16 +24,11 @@ I'm currently toying with Rust for my new projects, and I really like this langu
 
 [check_urls](https://github.com/wdroz/check_urls) *Verify the validity of URLs inside your files*. A friend had an issue with dead links in his documentation in his git repository. I though that would be a good opportunity for Rust with the async paradigm.
 
-### 📋 Old Works-related projects:
+### 📋 Works-related projects:
 
-[WeNet](https://www.internetofus.eu/)
+[fakellm](https://github.com/idiap/fakellm) *Expose one or more pydantic_ai.Agent instances as fake OpenAI-compatible chat models.*
 
-*The main goal of WeNet is to develop the culture, science and engineering methodologies, algorithms, social interaction protocols for an online platform that will empower machine mediated diversity-aware interactions between people.*
-
-  * [personal-context-builder](https://github.com/InternetOfUs/personal-context-builder)
-  * [realtime](https://github.com/InternetOfUs/realtime)
-  * [dnd-web](https://github.com/InternetOfUs/dnd-web) - web app with Flutter and Rust
-  * [activities-predictor](https://github.com/InternetOfUs/activities-predictor) - Detect activities for the wenet users
+[GrimoirePlot](https://github.com/idiap/GrimoirePlot) *GrimoirePlot is a live dashboard of plotly-compatible plots of remote data*
 
 ### ⛔️ Old projects and/or student projects
 
